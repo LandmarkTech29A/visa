@@ -5,4 +5,5 @@
  deplomant4
  deploy to staging env
  echo good job 
- Testes and accepted 
+ Testes and accepted
+ Good job   
